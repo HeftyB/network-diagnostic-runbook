@@ -1,0 +1,18 @@
+# Private operational artifacts do not belong in this documentation repository.
+private/
+PRIVATE-*
+tmp/
+*.pdf
+*.pcap
+*.pcapng
+*.cap
+*.log
+*.har
+*.zip
+*.conf
+*.cfg
+*.pem
+*.key
+.env
+.env.*
+# Ignore patterns are guardrails, not a substitute for reviewing staged content.
