@@ -6,6 +6,8 @@ The emphasis is on choosing a useful observation point, preserving evidence, tes
 
 The runbook grew from a wireless outage involving an access point's management path and a switch-port PVID/tagging mismatch. The [reviewed incident retrospective](incident-wireless-dhcp.md) follows the diagnostic evidence, configuration repair and recovery checks. It distinguishes recorded observations, operator-reported actions and diagnostic inference, and states the limits of recovery verification.
 
+**Written by AI agents, directed by Andrew Shields.** Claude Opus 5 (Anthropic) wrote the runbook. Codex (OpenAI) assembled the repository and wrote the [incident retrospective](incident-wireless-dhcp.md) from Claude's report on the outage.
+
 ## Read in this order
 
 | Document | Purpose |
