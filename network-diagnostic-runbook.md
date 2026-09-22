@@ -4,7 +4,7 @@
 
 Revision 1.1 | Maintained by Duval Analytics
 
-Start with [intake](#intake), select a [test plan](#test-plan-index), and use the linked pinpoint tests. Record findings in the [evidence/change-log template](evidence-change-log.md). The [incident draft](incident-wireless-dhcp.md) explains the origin; it is not a test transcript for these procedures.
+Start with [intake](#intake), select a [test plan](#test-plan-index), and use the linked pinpoint tests. Record findings in the [evidence/change-log template](evidence-change-log.md). The [incident retrospective](incident-wireless-dhcp.md) explains the origin; it is not a test transcript for these procedures.
 
 ## Scope and command conventions
 

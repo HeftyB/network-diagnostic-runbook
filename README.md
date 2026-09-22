@@ -4,14 +4,14 @@ Symptom-based troubleshooting for Linux hosts, DHCP, DNS, VLANs and directional 
 
 The emphasis is on choosing a useful observation point, preserving evidence, testing competing explanations, and verifying a repair. Ten symptom plans link to reusable pinpoint tests and a change log.
 
-The runbook grew from a wireless outage involving an access point's management path and a switch-port PVID/tagging mismatch. The [case study](incident-wireless-dhcp.md) follows the diagnostic evidence, configuration repair and recovery checks, with explicit limits on what was verified. It is a **draft for review**.
+The runbook grew from a wireless outage involving an access point's management path and a switch-port PVID/tagging mismatch. The [reviewed incident retrospective](incident-wireless-dhcp.md) follows the diagnostic evidence, configuration repair and recovery checks. It distinguishes recorded observations, operator-reported actions and diagnostic inference, and states the limits of recovery verification.
 
 ## Read in this order
 
 | Document | Purpose |
 |---|---|
 | [Runbook](network-diagnostic-runbook.md#test-plan-index) | Enter by symptom; follow tests and decision branches |
-| [Case study draft](incident-wireless-dhcp.md) | Follow the diagnostic sequence, repair and verification limits |
+| [Incident retrospective](incident-wireless-dhcp.md) | Follow the diagnostic sequence, repair and verification limits |
 | [Evidence/change-log template](evidence-change-log.md) | Record observations, hypotheses, changes and verification |
 | [References](references.md) | Check protocol behavior and command semantics against primary sources |
 

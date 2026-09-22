@@ -1,6 +1,6 @@
 # Restoring an access point's management path after a VLAN tagging mismatch
 
-**Case study draft for review** | Duval Analytics
+**Reviewed incident retrospective** | Duval Analytics
 
 ## Summary
 
@@ -8,7 +8,7 @@ A controller-managed access point became unreachable at its expected management 
 
 The operator reported that changing the management VLAN to untagged on the AP uplink restored communication. A related SSID setting was then corrected, and the AP was assigned a static management address. Controller connectivity and one affected SSID were confirmed working; post-repair DHCP behavior and every other SSID were not verified in the available account.
 
-This account is reconstructed from a retrospective report and verification notes drawn from the original diagnostic conversation. It distinguishes summarized records from operator-reported actions and diagnostic inference. Raw artifacts remain private. The focus is the diagnostic sequence and repair; no precise cause-to-symptom interval is asserted.
+This account was reviewed for technical consistency and publication. It is reconstructed from a retrospective report and verification notes drawn from the original diagnostic conversation, rather than an independent reinspection of the raw artifacts. It distinguishes summarized records, operator-reported actions and diagnostic inference. Raw artifacts remain private. The scope is the diagnostic sequence, repair and documented recovery checks.
 
 ## Symptom and scope
 
